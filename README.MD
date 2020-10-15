@@ -2,9 +2,9 @@
 
 - 3° edição
 
-## Segundo dia
+## Terceiro dia
 
-- Desenvolvimento do Backend
+- Finalização da aplicação web
 
 ### Como Testar
 
