@@ -2,9 +2,9 @@
 
 - 3° edição
 
-## Terceiro dia
+## Quarto dia
 
-- Finalização da aplicação web
+- Desenvolvimento do App Mobile
 
 ### Como Testar
 
